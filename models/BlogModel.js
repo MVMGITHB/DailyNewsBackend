@@ -10,7 +10,10 @@ const BlogSchema = new mongoose.Schema(
       type:String,
       required:true
     },
-
+  source:{
+      type:String,
+      required:true
+    },
     slug: {
       type: String, 
       unique: true,
