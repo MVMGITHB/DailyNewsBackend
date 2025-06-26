@@ -18,6 +18,8 @@ const app = express();
 const allowedOrigins = new Set([
   "http://localhost:3000",
   "http://localhost:5173",
+  "https://admin-daily-news.vercel.app",
+  "https://admin-daily-news.vercel.app/"
 
 ]);
 
