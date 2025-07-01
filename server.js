@@ -21,7 +21,9 @@ const allowedOrigins = new Set([
   "https://admin-daily-news.vercel.app",
   "https://admin-daily-news.vercel.app/",
   "http://82.25.109.68:3005",
-  "http://82.25.109.68:3005/"
+  "http://82.25.109.68:3005/",
+  "https://dailynewzmail.com/",
+  "https://dailynewzmail.com"
 
 ]);
 
